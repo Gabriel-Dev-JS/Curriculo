@@ -14,7 +14,7 @@
 ---
 # Objetivos  
 
-**Busco oportunidade para ingressar na área de tecnologia e aprimorar conhecimentos no desenvolvimnento de software.**
+**Busco oportunidade para ingressar na área de tecnologia e aprimorar conhecimentos no desenvolvimento de software.**
 
 --- 
 # Experiencia complementar 
